@@ -27,6 +27,27 @@ namespace IQ_ConsoleApp1
 
             Console.WriteLine(name.Length);
 
+
+            // Number variables
+
+            int a = 6;
+
+            Console.WriteLine(a);
+
+            //Arithmetic
+
+            int b = 9;
+            int c = 27;
+            int d = a + b + c;
+
+            Console.WriteLine(b + c);
+            Console.WriteLine(d);
+
+            //Decimals
+
+            double decm = 9.3;
+            Console.WriteLine(decm);
+
             // Character
 
             char letter = 'A';
